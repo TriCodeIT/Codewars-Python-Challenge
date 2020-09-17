@@ -17,3 +17,13 @@ def create_phone_number(n):
             if i == 5:
                 phone_number += '-'
     return phone_number
+
+print(create_phone_number('1234567890'))
+print(create_phone_number('1111111111'))
+print(create_phone_number('1234567890'))
+print(create_phone_number('0230560890'))
+
+
+
+
+
