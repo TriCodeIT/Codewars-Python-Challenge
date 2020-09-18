@@ -35,6 +35,10 @@ def duplicate_encode(word):
     return output
     
 
+print(duplicate_encode("babibubebo"))
+print(duplicate_encode("aiueo"))
+print(duplicate_encode("bbbbb"))
+
 print(duplicate_encode("din"))
 print(duplicate_encode("recede"))
 print(duplicate_encode("Success"))
